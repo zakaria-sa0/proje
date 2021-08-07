@@ -1,1 +1,3 @@
 # proje
+
+NGROK_AUTH_TOKEN
