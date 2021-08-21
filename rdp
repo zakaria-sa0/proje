@@ -1,0 +1,18 @@
+ااا انا جييت تاني، ناس ليباغا Rdp ولاكن معندهمش جبتليكم طريقة كفاش تجيب  ار دي بي ناضي نبداو، اول حاجة غنحتاجو للجوج مواقع اتلقاوهم لتحت، مهم اندخلوا للموقع لول بعدما ندخلوا ليه اتكليكيو على satrt باش تجهزالار دي بي من بعد اتنسخ هد الاوامر
+‏sudo su
+‏wget -O Katacoda_Windows11SuperLite.sh https://bit.ly/3sJdSld
+
+‏chmod +x Katacoda_Windows11SuperLite.sh
+‏./Katacoda_Windows11SuperLite.sh
+وغادي تلصقهم فلخانة السوداء، من بعد عادي يطلب منك واحد الكود منين غنجيبو هد لكود اندخلوا لموقع ngrok غادي تتسجل فيه باش تجيب الكود من بعدما غادي تجيب المود غادي تلصقو فشريط الاسود تاني، من بعد هدشي غنساينو بينما يجهز لينا ل RDP
+من بعد غادي يطلعوليك لمعلومات ديال الار دي بي ومن بعد غادي تحصل على حاسوب قوي وانترنيت سرييع بزاف 
+لموقع لول: https://www.katacoda.com/openshift/courses/subsystems/container-internals-lab-2-0-part-1?fbclid=IwAR07EB_o0caGVLDH6H9QB_r_4vM6LM8AvrnWxObKH1b_jieQUwWJN1TpD6Y
+لموقع تاني: https://ngrok.com
+=========================================================================================
+https://raw.githubusercontent.com/zakaria-sa0/proje/main/Katacoda_Windows11SuperLite.sh
+
+https://app.vagrantup.com/thuonghai2711/boxes/WindowsQCOW2/versions/1.0.7/providers/qemu.box
+
+https://bit.ly/2URPD7y
+
+https://www.facebook.com/hashtag/peeeeaasse
